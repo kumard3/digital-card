@@ -57,15 +57,9 @@ npx create-next-app -e https://github.com/Cyphen12/tailwind-typescript-starter
 
 ```
 
-  
-
 ### Development
 
-  
-
-To start the project locally, run:
-
-  
+To start the project locally, run:  
 
 ```bash
 
@@ -73,10 +67,4 @@ yarn dev
 
 ```
 
-  
-
 Open `http://localhost:3000` with your browser to see the result.
-
- 
-
-  
