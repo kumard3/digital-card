@@ -13,11 +13,9 @@
 
 <div  align="center"><strong>TypeScript with Tailwind starter for Next.js</strong></div>
 
-  
-
+ 
 <br />
 
-  
 
 ## Features
 
